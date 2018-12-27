@@ -4,11 +4,11 @@ description: Postdock chart for kubernetes
 name: PostDock
 version: 1.2.0
 maintainers:
-  - name: Dmitry Paunin
-    email: d.m.paunin@gmail.com
-home: https://github.com/paunin/PostDock
+  - name: Dave Manley
+    email: discodex@hotmail.com
+home: https://github.com/discodex/charts
 sources:
-- https://github.com/paunin/PostDock
+- https://github.com/discodex/charts
 icon: https://raw.githubusercontent.com/paunin/PostDock/master/artwork/logo.png
 keywords:
 - database
