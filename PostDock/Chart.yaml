@@ -3,16 +3,4 @@ appVersion: "1.0"
 description: Postdock chart for kubernetes 
 name: PostDock
 version: 1.2.0
-maintainers:
-  - name: Dave Manley
-    email: discodex@hotmail.com
-home: https://github.com/discodex/charts/PostDock
-sources:
-- https://github.com/discodex/charts/PostDock
 icon: https://raw.githubusercontent.com/paunin/PostDock/master/artwork/logo.png
-keywords:
-- database
-- postgres
-- postgresql
-- postdock
-- cluster
